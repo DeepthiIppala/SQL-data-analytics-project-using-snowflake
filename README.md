@@ -19,7 +19,7 @@ Data was collected using the **Bright Data platform** the same approach can be a
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - **Snowflake** – Data warehouse and SQL analytics
 - **SQL** – Data loading, transformation, and analysis
 - **Python** – Data enrichment (geocoding, automation)
@@ -29,7 +29,7 @@ Data was collected using the **Bright Data platform** the same approach can be a
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 1. Scrape property listing data from Otodom using Bright Data  
 2. Load raw data into Snowflake  
 3. Flatten nested JSON data using SQL  
