@@ -41,6 +41,7 @@ Data was collected using the **Bright Data platform** the same approach can be a
 8. Build dashboards and visual insights  
 
 ---
+
 ## Steps
 
 ### **Step 1 – Data Ingestion & Flattening**
@@ -67,7 +68,23 @@ Some of the questions answered in this project include:
 - Rental vs sale price comparison  
 - Apartment size expectations for a given rent  
 - Distribution of private vs business listings  
-- High-end and budget-friendly areas in Warsaw  
+- High-end and budget-friendly areas in Warsaw
+
+## Repository Structure & How to Use
+
+### **Dashboard/**
+Contains screenshots of the dashboards built in Snowflake.  
+
+### **Data/**
+Contains processed and transformed datasets used for analysis.  
+These files represent the cleaned outputs after applying transformations such as address from latitude and longitude, and translating title column from poland to english .
+
+You can use these files to:
+- Validate SQL query results  
+- Recreate dashboards in other BI tools (Power BI / Tableau / Excel)
+
+### **SQL files/**
+Contains all SQL scripts used in Snowflake
 
 ---
 
