@@ -1,5 +1,5 @@
 # Real Estate Data Analytics Project
-## Analyzing property listings to understand pricing trends, affordability, and market insights using Snowflake, Snow SQL, SQL Python, Google Sheets, Bright data
+## Analyzing property listings to understand pricing trends, affordability, and market insights using Snowflake, Snow SQL, SQL, Python, Google Sheets, Bright data
 
 ## Project Overview
 
