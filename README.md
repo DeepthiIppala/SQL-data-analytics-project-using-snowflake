@@ -73,7 +73,10 @@ Some of the questions answered in this project include:
 ## Repository Structure & How to Use
 
 ### **Dashboard/**
-Contains screenshots of the dashboards built in Snowflake.  
+Contains screenshots of the dashboards built in Snowflake. 
+
+<img width="1920" height="896" alt="Dashboard" src="https://github.com/user-attachments/assets/00393a3f-8848-40e3-9146-778dbd830561" />
+
 
 ### **Data/**
 Contains processed and transformed datasets used for analysis.  
